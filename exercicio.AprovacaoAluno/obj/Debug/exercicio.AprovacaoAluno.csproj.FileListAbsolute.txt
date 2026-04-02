@@ -1,0 +1,7 @@
+C:\Users\cauab\source\repos\exercicio.AprovacaoAluno\exercicio.AprovacaoAluno\obj\Debug\exercicio.AprovacaoAluno.csproj.AssemblyReference.cache
+C:\Users\cauab\source\repos\exercicio.AprovacaoAluno\exercicio.AprovacaoAluno\obj\Debug\exercicio.AprovacaoAluno.csproj.CoreCompileInputs.cache
+C:\Users\cauab\source\repos\exercicio.AprovacaoAluno\exercicio.AprovacaoAluno\bin\Debug\exercicio.AprovacaoAluno.exe.config
+C:\Users\cauab\source\repos\exercicio.AprovacaoAluno\exercicio.AprovacaoAluno\bin\Debug\exercicio.AprovacaoAluno.exe
+C:\Users\cauab\source\repos\exercicio.AprovacaoAluno\exercicio.AprovacaoAluno\bin\Debug\exercicio.AprovacaoAluno.pdb
+C:\Users\cauab\source\repos\exercicio.AprovacaoAluno\exercicio.AprovacaoAluno\obj\Debug\exercicio.AprovacaoAluno.exe
+C:\Users\cauab\source\repos\exercicio.AprovacaoAluno\exercicio.AprovacaoAluno\obj\Debug\exercicio.AprovacaoAluno.pdb
