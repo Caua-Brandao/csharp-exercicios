@@ -1,0 +1,7 @@
+C:\Users\cauab\source\repos\exercicio.Funcionario.Classes\exercicio.Funcionario.Classes\bin\Debug\exercicio.Funcionario.Classes.exe.config
+C:\Users\cauab\source\repos\exercicio.Funcionario.Classes\exercicio.Funcionario.Classes\bin\Debug\exercicio.Funcionario.Classes.exe
+C:\Users\cauab\source\repos\exercicio.Funcionario.Classes\exercicio.Funcionario.Classes\bin\Debug\exercicio.Funcionario.Classes.pdb
+C:\Users\cauab\source\repos\exercicio.Funcionario.Classes\exercicio.Funcionario.Classes\obj\Debug\exercicio.Funcionario.Classes.csproj.AssemblyReference.cache
+C:\Users\cauab\source\repos\exercicio.Funcionario.Classes\exercicio.Funcionario.Classes\obj\Debug\exercicio.Funcionario.Classes.csproj.CoreCompileInputs.cache
+C:\Users\cauab\source\repos\exercicio.Funcionario.Classes\exercicio.Funcionario.Classes\obj\Debug\exercicio.Funcionario.Classes.exe
+C:\Users\cauab\source\repos\exercicio.Funcionario.Classes\exercicio.Funcionario.Classes\obj\Debug\exercicio.Funcionario.Classes.pdb
