@@ -46,17 +46,17 @@ namespace encapsulamento
         private string _nome;
         private double _saldo;
         public int NumeroConta { get; private set; }
-        public ContaBancaria(string nome, double saldo, int NumeroConta)
-        {
-            this._nome = nome;
-            this._saldo = saldo;
-            this.NumeroConta = NumeroConta;
-        }
+
         public ContaBancaria(string nome, int numeroconta)
         {
             this._nome = nome;
             this.NumeroConta = numeroconta;
         }
+        public ContaBancaria(string nome, double saldo, int NumeroConta) : this(nome, NumeroConta)
+        {
+            this._saldo = saldo;
+        }
+        
         public string Nome
         {
             get { return _nome; }

@@ -1,0 +1,7 @@
+C:\Users\cauab\OneDrive\Desktop\csharp-exercicios\encapsulamento\bin\Debug\encapsulamento.exe.config
+C:\Users\cauab\OneDrive\Desktop\csharp-exercicios\encapsulamento\bin\Debug\encapsulamento.exe
+C:\Users\cauab\OneDrive\Desktop\csharp-exercicios\encapsulamento\bin\Debug\encapsulamento.pdb
+C:\Users\cauab\OneDrive\Desktop\csharp-exercicios\encapsulamento\obj\Debug\exercicio encapsulamento.csproj.AssemblyReference.cache
+C:\Users\cauab\OneDrive\Desktop\csharp-exercicios\encapsulamento\obj\Debug\exercicio encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\cauab\OneDrive\Desktop\csharp-exercicios\encapsulamento\obj\Debug\encapsulamento.exe
+C:\Users\cauab\OneDrive\Desktop\csharp-exercicios\encapsulamento\obj\Debug\encapsulamento.pdb
