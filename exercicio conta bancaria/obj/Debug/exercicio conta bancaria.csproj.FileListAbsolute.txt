@@ -1,7 +1,0 @@
-C:\Users\cauab\source\repos\exercicio conta bancaria\exercicio conta bancaria\bin\Debug\exercicio conta bancaria.exe.config
-C:\Users\cauab\source\repos\exercicio conta bancaria\exercicio conta bancaria\bin\Debug\exercicio conta bancaria.exe
-C:\Users\cauab\source\repos\exercicio conta bancaria\exercicio conta bancaria\bin\Debug\exercicio conta bancaria.pdb
-C:\Users\cauab\source\repos\exercicio conta bancaria\exercicio conta bancaria\obj\Debug\exercicio conta bancaria.csproj.AssemblyReference.cache
-C:\Users\cauab\source\repos\exercicio conta bancaria\exercicio conta bancaria\obj\Debug\exercicio conta bancaria.csproj.CoreCompileInputs.cache
-C:\Users\cauab\source\repos\exercicio conta bancaria\exercicio conta bancaria\obj\Debug\exercicio conta bancaria.exe
-C:\Users\cauab\source\repos\exercicio conta bancaria\exercicio conta bancaria\obj\Debug\exercicio conta bancaria.pdb
