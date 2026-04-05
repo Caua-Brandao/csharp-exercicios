@@ -1,28 +1,16 @@
-# C# Exercises
+# Exercícios em C#
 
-This repository was created to document my learning journey in C# and object-oriented programming.
+Repositório com exercícios práticos que estou desenvolvendo durante meu aprendizado em C#.
 
-## Overview
+# Conteúdo
+- Variáveis e tipos
+- Estruturas condicionais
+- Laços de repetição
+- Arrays e listas
+- Programação orientada a objetos (em progresso)
 
-The project contains practical exercises developed during my studies, focusing on strengthening programming logic and understanding core concepts of the C# language.
+# Objetivo
+Praticar lógica e consolidar os fundamentos da linguagem.
 
-## Topics Covered
-
-- Encapsulation
-- Classes and Object-Oriented Programming
-- Conditional Structures
-- Practical Exercises
-
-## Objective
-
-The main goal of this repository is to consolidate knowledge in C# through consistent practice and real problem-solving.
-
-## Technologies
-
-- C#
-- .NET
-- Visual Studio
-
-## Notes
-
-This repository is continuously updated as part of my daily study routine.
+# Frequência
+Atualizado diariamente.
