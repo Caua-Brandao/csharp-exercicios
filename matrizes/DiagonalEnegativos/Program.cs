@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace matrizEsquerdaDireitaCimaBaixo
+namespace DiagonalEnegativos
 {
     class Program
     {
