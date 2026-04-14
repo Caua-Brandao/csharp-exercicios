@@ -1,6 +1,33 @@
-bin/
-obj/
+# --- Pastas de Compilação e Binários ---
+[Bb]in/
+[Oo]bj/
+[Gg]enerated/
+
+# --- Configurações do Visual Studio ---
 .vs/
 *.user
+*.userosscache
+*.sln.docstates
 *.suo
+*.suo.tmp
+
+# --- Arquivos de Log e Temporários ---
 *.log
+*.tmp
+*.temp
+
+# --- Extensões de Soluções Novas (VS 2026) ---
+.slnx/
+.vsconfig
+
+# --- Pastas de Ferramentas e IDEs ---
+.idea/
+.vscode/
+.DS_Store
+
+# --- Publicação e Pacotes ---
+*.exe
+*.dll
+*.pdb
+*.nupkg
+publish/
