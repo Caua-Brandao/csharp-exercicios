@@ -1,0 +1,102 @@
+# ============================================
+# .gitignore para C# com Visual Studio
+# ============================================
+
+# --- Pastas de Compilação e Binários ---
+[Bb]in/
+[Oo]bj/
+[Gg]enerated/
+[Ll]og/
+[Ll]ogs/
+
+# --- Configurações do Visual Studio ---
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.userprefs
+
+# --- Arquivos de Log e Temporários ---
+*.log
+*.tmp
+*.temp
+*.cache
+
+# --- Extensões de Soluções Novas (VS 2026) ---
+.slnx/
+.vsconfig
+
+# --- Pastas de Ferramentas e IDEs ---
+.idea/
+.vscode/
+.DS_Store
+
+# --- Publicação e Pacotes ---
+*.exe
+*.dll
+*.pdb
+*.nupkg
+[Pp]ublish/
+[Rr]elease/
+[Dd]ebug/
+
+# --- NuGet ---
+*.snupkg
+[Pp]ackages/
+!packages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# --- Testes e Cobertura ---
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+*.testlog
+
+# --- Build Results ---
+[Dd]ebugPublic/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Oo]ut/
+
+# --- Visual Studio Profiler ---
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# --- ReSharper ---
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# --- JetBrains Rider ---
+.idea/
+*.sln.iml
+
+# --- NCrunch ---
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# --- MSTest ---
+*.testsettings
+
+# --- Build Outputs ---
+*.pidb
+*.svclog
+*.scc
+
+# --- Outros ---
+*.swp
+*~
+Thumbs.db
+ehthumbs.db
+Desktop.ini
