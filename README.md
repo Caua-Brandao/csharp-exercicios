@@ -8,6 +8,9 @@ Repositório com exercícios práticos que estou desenvolvendo durante meu apren
 - Laços de repetição
 - Arrays e listas
 - Programação orientada a objetos (em progresso)
+- Manipulação de arquivos
+- Interfaces
+- Tratamento de excessões
 
 # Objetivo
 Praticar lógica e consolidar os fundamentos da linguagem.
